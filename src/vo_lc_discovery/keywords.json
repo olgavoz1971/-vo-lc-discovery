@@ -1,0 +1,5 @@
+{
+  "_note": "DRAFT, to be agreed. Lowercase ADQL ILIKE patterns. A positive hit wins over a stop hit.",
+  "positive": ["%time%series%", "%light%curve%"],
+  "stop": ["%spectra%", "%spectrum%", "%spectroscopic%", "%spectrophotometer%", "%kurucz%"]
+}
